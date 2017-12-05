@@ -1,0 +1,19 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "This is the start of node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyAgrawal/myapp.git"
+  },
+  "author": "Lucky A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyAgrawal/myapp/issues"
+  },
+  "homepage": "https://github.com/LuckyAgrawal/myapp#readme"
+}
